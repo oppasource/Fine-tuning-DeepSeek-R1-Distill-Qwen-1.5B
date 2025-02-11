@@ -1,4 +1,4 @@
-# Fine-tuning-DeepSeek-R1-Distill-Qwen-1.5B
+# Fine-tuning-DeepSeek-R1-Distill-Qwen-1.5B-for-ReAct
 
 The ReAct prompt is used to build agents which can use tools if needed. DeepSeek-R1-Distill-Qwen-1.5B runs on local with minimal resources but does not give good results on ReAct prompt. This repo contains code to fine-tune the DeepSeek-R1-Distill-Qwen-1.5B model with ReAct example so that the final trained model can be used for ReAct prompts giving better results and thus able to build agents locally.
 
